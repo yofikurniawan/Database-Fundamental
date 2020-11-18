@@ -1,0 +1,22 @@
+To create a text file 
+Enter each line using the echo command as follow 
+
+- line 1 contain the word "white."
+echo "white." >> new-colors.txt
+
+- line 2 contain the word "black." and so on for the list of lines.
+echo "black." >> new-colors.txt
+echo "red." >> new-colors.txt
+echo "blue." >> new-colors.txt
+echo "green." >> new-colors.txt
+
+
+to view the content of the file new-colors.txt the we have just created use the cat command as follow:
+cat new-colors.txt
+white.
+black.
+red.
+blue.
+green.
+
+use this method to create any text file you find in this course to practice all the commands.

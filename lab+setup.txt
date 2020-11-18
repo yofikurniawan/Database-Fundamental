@@ -1,0 +1,11 @@
+
+mkdir documents
+mkdir downloads
+mkdir pictures
+mkdir videos
+mkdir desktop
+mkdir music
+mkdir templates
+cd documents
+mkdir school
+mkdir work
